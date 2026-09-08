@@ -5,7 +5,7 @@ about:
   head: 06dedc9
   archived: false
   latestVersion: "v1.20.0"
-  collectedAt: 2026-09-08T01:35:08Z
+  collectedAt: 2026-09-08T03:25:41Z
 timeline:
   created: 2018-09-16
   lastCommit: 2026-05-20
@@ -86,7 +86,7 @@ total:
   commit: 784
 ---
 path: /home/runner/.x-repo/github.com/zegl/kube-score
-collectedAt: 2026-09-08T01:35:09Z
+collectedAt: 2026-09-08T03:25:42Z
 loc:
   Go:
     code: 8227
