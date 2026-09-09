@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.20.0"
   latestRelease: "v1.20.0"
   latestPrerelease: "v0.1.0-beta1"
-  collectedAt: 2026-09-09T02:39:33Z
+  collectedAt: 2026-09-09T18:34:47Z
 timeline:
   created: 2018-09-16
   lastCommit: 2026-05-20
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-04-28
   lastPrerelease: 2018-09-26
 popularity:
-  star: 3102
+  star: 3103
   watcher: 25
   fork: 202
   release: 40
@@ -90,7 +90,7 @@ total:
   commit: 784
 ---
 path: /home/runner/.x-repo/github.com/zegl/kube-score
-collectedAt: 2026-09-09T02:39:34Z
+collectedAt: 2026-09-09T18:34:47Z
 loc:
   Go:
     code: 8227
