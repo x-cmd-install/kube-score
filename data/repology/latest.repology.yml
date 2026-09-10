@@ -1,0 +1,196 @@
+- repo: aur
+  srcname: kube-score
+  binname: kube-score
+  visiblename: kube-score
+  version: 1.20.0
+  origversion: 1.20.0-1
+  status: newest
+  summary: Kubernetes object analysis with recommendations for improved reliability and security
+  maintainers:
+    - carsme@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: kube-score-bin
+  binname: kube-score-bin
+  visiblename: kube-score-bin
+  version: 1.20.0
+  origversion: 1.20.0-1
+  status: newest
+  summary: Kubernetes object analysis with recommendations for improved reliability and security
+  maintainers:
+    - omjadas@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: kube-score
+  visiblename: kube-score
+  version: 1.20.0
+  origversion: null
+  status: newest
+  summary: Kubernetes object analysis recommendations for improved reliability and security
+- repo: homebrew
+  srcname: kube-score
+  visiblename: kube-score
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Kubernetes object analysis recommendations for improved reliability and security
+- repo: nix_stable_24_05
+  srcname: kube-score
+  visiblename: kube-score
+  version: 1.18.0
+  origversion: null
+  status: outdated
+  summary: Kubernetes object analysis with recommendations for improved reliability and security
+  maintainers:
+    - github@j4m3s.eu
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: kube-score
+  visiblename: kube-score
+  version: 1.19.0
+  origversion: null
+  status: outdated
+  summary: Kubernetes object analysis with recommendations for improved reliability and security
+  maintainers:
+    - github@j4m3s.eu
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: kube-score
+  visiblename: kube-score
+  version: 1.20.0
+  origversion: null
+  status: newest
+  summary: Kubernetes object analysis with recommendations for improved reliability and security
+  maintainers:
+    - github@j4m3s.eu
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: kube-score
+  visiblename: kube-score
+  version: 1.20.0
+  origversion: null
+  status: newest
+  summary: Kubernetes object analysis with recommendations for improved reliability and security
+  maintainers:
+    - github@j4m3s.eu
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: kube-score
+  visiblename: kube-score
+  version: 1.20.0
+  origversion: null
+  status: newest
+  summary: Kubernetes object analysis with recommendations for improved reliability and security
+  maintainers:
+    - github@j4m3s.eu
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: kube-score
+  visiblename: kube-score
+  version: 1.20.0
+  origversion: null
+  status: newest
+  summary: Kubernetes object analysis with recommendations for improved reliability and security
+  maintainers:
+    - github@j4m3s.eu
+  licenses:
+    - MIT
+- repo: wakemeops
+  subrepo: devops
+  binname: kube-score
+  visiblename: kube-score
+  version: 1.20.0
+  origversion: 1.20.0-1~ops2deb
+  status: newest
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kube-score
+  visiblename: kube-score
+  version: 1.19.0
+  origversion: 1.19.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kube-score
+  visiblename: kube-score
+  version: 1.18.0
+  origversion: 1.18.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kube-score
+  visiblename: kube-score
+  version: 1.17.0
+  origversion: 1.17.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kube-score
+  visiblename: kube-score
+  version: 1.16.1
+  origversion: 1.16.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kube-score
+  visiblename: kube-score
+  version: 1.16.0
+  origversion: 1.16.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kube-score
+  visiblename: kube-score
+  version: 1.15.0
+  origversion: 1.15.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kube-score
+  visiblename: kube-score
+  version: 1.14.0
+  origversion: 1.14.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kube-score
+  visiblename: kube-score
+  version: 1.13.0
+  origversion: 1.13.0-3~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: kube-score
+  visiblename: kube-score
+  version: 1.12.0
+  origversion: 1.12.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+  categories:
+    - python
