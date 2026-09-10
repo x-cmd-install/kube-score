@@ -12,6 +12,28 @@ Kubernetes object analysis with recommendations for improved reliability and sec
 x install kube-score
 ```
 
+## Code insight
+
+Total: **16,888** lines of code across **268** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 8,227 | 189 | 1,405 | 78 |
+| Yaml | 6,864 | 6 | 858 | 184 |
+| Css | 810 | 27 | 270 | 2 |
+| JavaScript | 478 | 36 | 61 | 1 |
+| Tsx | 185 | 1 | 34 | 3 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.3 / 10**
+
+Lowest-scoring checks:
+
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/zegl/kube-score>
@@ -23,6 +45,25 @@ x install kube-score
 - **Latest**: `v1.20.0` (2025-04-28)
 - **Last commit**: 2026-05-20
 - **Assets in release**: 17
+
+## Popularity
+
+- **Stars**: 3,103 · **Forks**: 202 · **Open issues**: 186 · **Contributors**: 37
+
+## Totals (cumulative)
+
+- **Releases**: 40 · **Merged PRs**: 400 · **Open PRs**: 16 · **Closed issues**: 150 · **Open issues**: 36 · **Commits**: 784
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 3 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 1 | 7 | 0 | 1 | 1 |
+| 360d | 2025-09-15 | 0 | 4 | 8 | 0 | 1 | 9 |
+| last720d | 2024-09-20 | 2 | 30 | 10 | 6 | 7 | 39 |
 
 ## Release assets
 
@@ -46,43 +87,14 @@ x install kube-score
 | [kube-score_1.20.0_windows_armv6.exe](https://github.com/zegl/kube-score/releases/download/v1.20.0/kube-score_1.20.0_windows_armv6.exe) | 14.7 MiB | `native/win/x64` |
 | [kube-score_1.20.0_windows_armv6.tar.gz](https://github.com/zegl/kube-score/releases/download/v1.20.0/kube-score_1.20.0_windows_armv6.tar.gz) | 4.8 MiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 3,103 · **Forks**: 202 · **Open issues**: 186 · **Contributors**: 37
+Reported by **20** distros on [repology.org](https://repology.org/project/kube-score). **8** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 40 · **Merged PRs**: 400 · **Open PRs**: 16 · **Closed issues**: 150 · **Open issues**: 36 · **Commits**: 784
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 4 | 8 | 0 | 1 | 9 |
-
-## Code size
-
-Total: **16,888** lines of code across **268** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 8,227 | 189 | 1,405 | 78 |
-| Yaml | 6,864 | 6 | 858 | 184 |
-| Css | 810 | 27 | 270 | 2 |
-| JavaScript | 478 | 36 | 61 | 1 |
-| Tsx | 185 | 1 | 34 | 3 |
-
-## OpenSSF Scorecard
-
-Overall score: **3.3 / 10**
-
-Lowest-scoring checks:
-
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Packaging** (-1/10) — packaging workflow not detected
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.20.0` | ✅ latest |
+| Nix unstable | `1.20.0` | ✅ latest |
 
 ## Improve this data
 
@@ -93,4 +105,4 @@ Install metadata for kube-score lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:54:34Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:24:34Z._
