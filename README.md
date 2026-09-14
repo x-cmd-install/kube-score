@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last180d | 2026-03-17 | 0 | 1 | 7 | 0 | 1 | 1 |
-| 360d | 2025-09-18 | 0 | 4 | 8 | 0 | 1 | 9 |
-| last720d | 2024-09-23 | 2 | 30 | 10 | 6 | 7 | 39 |
+| 30d | 2026-08-15 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 3 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last180d | 2026-03-18 | 0 | 1 | 7 | 0 | 1 | 1 |
+| 360d | 2025-09-19 | 0 | 4 | 8 | 0 | 1 | 3 |
+| last720d | 2024-09-24 | 2 | 30 | 10 | 6 | 7 | 39 |
 
 ## Release assets
 
@@ -87,15 +87,6 @@ Lowest-scoring checks:
 | [kube-score_1.20.0_windows_armv6.exe](https://github.com/zegl/kube-score/releases/download/v1.20.0/kube-score_1.20.0_windows_armv6.exe) | 14.7 MiB | `native/win/x64` |
 | [kube-score_1.20.0_windows_armv6.tar.gz](https://github.com/zegl/kube-score/releases/download/v1.20.0/kube-score_1.20.0_windows_armv6.tar.gz) | 4.8 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **20** distros on [repology.org](https://repology.org/project/kube-score). **8** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.20.0` | ✅ latest |
-| Nix unstable | `1.20.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for kube-score lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kube-score` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -105,4 +96,4 @@ Install metadata for kube-score lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T02:42:18Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T02:57:56Z._
