@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,104 · **Forks**: 203 · **Open issues**: 186 · **Contributors**: 37
+- **Stars**: 3,104 · **Forks**: 203 · **Open issues**: 187 · **Contributors**: 37
 
 ## Totals (cumulative)
 
-- **Releases**: 40 · **Merged PRs**: 400 · **Open PRs**: 16 · **Closed issues**: 150 · **Open issues**: 36 · **Commits**: 784
+- **Releases**: 40 · **Merged PRs**: 400 · **Open PRs**: 16 · **Closed issues**: 150 · **Open issues**: 37 · **Commits**: 784
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-16 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-06-16 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last180d | 2026-03-18 | 0 | 1 | 7 | 0 | 1 | 1 |
-| 360d | 2025-09-19 | 0 | 4 | 8 | 0 | 1 | 3 |
-| last720d | 2024-09-24 | 2 | 30 | 10 | 6 | 7 | 39 |
+| 30d | 2026-08-16 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-07-17 | 0 | 0 | 3 | 0 | 1 | 0 |
+| 90d | 2026-06-17 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last180d | 2026-03-19 | 0 | 1 | 6 | 0 | 2 | 1 |
+| 360d | 2025-09-20 | 0 | 4 | 8 | 0 | 2 | 3 |
+| last720d | 2024-09-25 | 2 | 29 | 10 | 5 | 8 | 39 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for kube-score lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T02:57:56Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T02:59:40Z._
