@@ -1,3 +1,14 @@
+- repo: nix_stable_25_05
+  srcname: kube-score
+  visiblename: kube-score
+  version: 1.20.0
+  origversion: null
+  status: newest
+  summary: Kubernetes object analysis with recommendations for improved reliability and security
+  maintainers:
+    - github@j4m3s.eu
+  licenses:
+    - MIT
 - repo: aur
   srcname: kube-score
   binname: kube-score
@@ -58,17 +69,6 @@
     - github@j4m3s.eu
   licenses:
     - MIT
-- repo: nix_stable_25_05
-  srcname: kube-score
-  visiblename: kube-score
-  version: 1.20.0
-  origversion: null
-  status: newest
-  summary: Kubernetes object analysis with recommendations for improved reliability and security
-  maintainers:
-    - github@j4m3s.eu
-  licenses:
-    - MIT
 - repo: nix_stable_25_11
   srcname: kube-score
   visiblename: kube-score
@@ -102,6 +102,16 @@
     - github@j4m3s.eu
   licenses:
     - MIT
+- repo: slackbuilds
+  srcname: development/kube-score
+  visiblename: development/kube-score
+  version: 1.20.0
+  origversion: null
+  status: newest
+  maintainers:
+    - boxjake.romero@protonmail.com
+  categories:
+    - development
 - repo: wakemeops
   subrepo: devops
   binname: kube-score
