@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,106 · **Forks**: 203 · **Open issues**: 187 · **Contributors**: 37
+- **Stars**: 3,105 · **Forks**: 203 · **Open issues**: 187 · **Contributors**: 37
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-07 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 90d | 2026-08-08 | 0 | 0 | 4 | 0 | 1 | 0 |
-| last180d | 2026-05-10 | 0 | 1 | 5 | 0 | 1 | 1 |
-| 360d | 2025-11-11 | 0 | 3 | 9 | 0 | 2 | 3 |
-| last720d | 2024-11-16 | 1 | 21 | 11 | 3 | 7 | 28 |
+| 30d | 2026-10-08 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-08 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 90d | 2026-08-09 | 0 | 0 | 4 | 0 | 1 | 0 |
+| last180d | 2026-05-11 | 0 | 1 | 5 | 0 | 1 | 1 |
+| 360d | 2025-11-12 | 0 | 3 | 9 | 0 | 2 | 3 |
+| last720d | 2024-11-17 | 1 | 21 | 11 | 3 | 7 | 28 |
 
 ## Release assets
 
@@ -89,7 +89,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **20** distros on [repology.org](https://repology.org/project/kube-score). **8** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **21** distros on [repology.org](https://repology.org/project/kube-score). **9** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -105,4 +105,4 @@ Install metadata for kube-score lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T04:45:05Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T04:12:51Z._
