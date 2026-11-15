@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1620,
       "digest": null,
-      "download_count": 90700,
+      "download_count": 90860,
       "created_at": "2025-04-28T16:54:48Z",
       "updated_at": "2025-04-28T16:54:48Z",
       "browser_download_url": "https://github.com/zegl/kube-score/releases/download/v1.20.0/checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4905919,
       "digest": null,
-      "download_count": 1327,
+      "download_count": 1336,
       "created_at": "2025-04-28T16:54:45Z",
       "updated_at": "2025-04-28T16:54:48Z",
       "browser_download_url": "https://github.com/zegl/kube-score/releases/download/v1.20.0/kube-score_1.20.0_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15335576,
       "digest": null,
-      "download_count": 752453,
+      "download_count": 753161,
       "created_at": "2025-04-28T16:54:45Z",
       "updated_at": "2025-04-28T16:54:50Z",
       "browser_download_url": "https://github.com/zegl/kube-score/releases/download/v1.20.0/kube-score_1.20.0_linux_amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5268579,
       "digest": null,
-      "download_count": 831739,
+      "download_count": 832208,
       "created_at": "2025-04-28T16:54:45Z",
       "updated_at": "2025-04-28T16:54:48Z",
       "browser_download_url": "https://github.com/zegl/kube-score/releases/download/v1.20.0/kube-score_1.20.0_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 14811288,
       "digest": null,
-      "download_count": 71932,
+      "download_count": 72017,
       "created_at": "2025-04-28T16:54:45Z",
       "updated_at": "2025-04-28T16:54:50Z",
       "browser_download_url": "https://github.com/zegl/kube-score/releases/download/v1.20.0/kube-score_1.20.0_linux_arm64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4712455,
       "digest": null,
-      "download_count": 69551,
+      "download_count": 69606,
       "created_at": "2025-04-28T16:54:45Z",
       "updated_at": "2025-04-28T16:54:48Z",
       "browser_download_url": "https://github.com/zegl/kube-score/releases/download/v1.20.0/kube-score_1.20.0_linux_arm64.tar.gz"
