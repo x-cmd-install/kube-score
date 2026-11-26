@@ -30,8 +30,8 @@ Overall score: **3.3 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last180d | 2026-05-29 | 0 | 0 | 5 | 0 | 1 | 0 |
-| 360d | 2025-11-30 | 0 | 3 | 9 | 0 | 2 | 3 |
-| last720d | 2024-12-05 | 1 | 16 | 11 | 3 | 7 | 21 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last180d | 2026-05-30 | 0 | 0 | 5 | 0 | 1 | 0 |
+| 360d | 2025-12-01 | 0 | 3 | 9 | 0 | 2 | 3 |
+| last720d | 2024-12-06 | 1 | 16 | 11 | 3 | 7 | 20 |
 
 ## Release assets
 
@@ -87,15 +87,6 @@ Lowest-scoring checks:
 | [kube-score_1.20.0_windows_armv6.exe](https://github.com/zegl/kube-score/releases/download/v1.20.0/kube-score_1.20.0_windows_armv6.exe) | 14.7 MiB | `native/win/x64` |
 | [kube-score_1.20.0_windows_armv6.tar.gz](https://github.com/zegl/kube-score/releases/download/v1.20.0/kube-score_1.20.0_windows_armv6.tar.gz) | 4.8 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **21** distros on [repology.org](https://repology.org/project/kube-score). **9** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.20.0` | ✅ latest |
-| Nix unstable | `1.20.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for kube-score lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kube-score` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -105,4 +96,4 @@ Install metadata for kube-score lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T06:36:36Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T06:28:21Z._
